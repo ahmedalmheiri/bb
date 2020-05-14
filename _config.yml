@@ -4,4 +4,4 @@ twitter_username: scratch
 github_username: scratch
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
