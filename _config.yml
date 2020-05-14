@@ -4,4 +4,4 @@ twitter_username: scratch
 github_username: scratch
 
 # Build settings
-markdown: krandown
+theme: minima
